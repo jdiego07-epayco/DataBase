@@ -1,0 +1,48 @@
+{
+    "facturas": [{
+            "id": 1,
+            "tipo": "CC",
+            "cc": "1194418306",
+            "name": "Diego Vargas",
+            "descripcion": "Credito Vehiculo",
+            "cuota": 1,
+            "total": 10
+        },
+        {
+            "id": 2,
+            "tipo": "CC",
+            "cc": "1194418306",
+            "name": "Diego Vargas",
+            "descripcion": "Credito Vivenda",
+            "cuota": 1,
+            "total": 10
+        },
+        {
+            "id": 3,
+            "tipo": "CC",
+            "cc": "1214735473",
+            "name": "Andres Osorio",
+            "descripcion": "Credito Vivenda",
+            "cuota": 2,
+            "total": 10
+        },
+        {
+            "id": 4,
+            "tipo": "CC",
+            "cc": "1026136652",
+            "name": "Andres Tangarife",
+            "descripcion": "Credito Linea Blanca",
+            "cuota": 3,
+            "total": 10
+        },
+        {
+            "id": 5,
+            "tipo": "CC",
+            "cc": "1096246841",
+            "name": "Maria Correa",
+            "descripcion": "Credito Linea Blanca",
+            "cuota": 1,
+            "total": 10
+        }
+    ]
+}
