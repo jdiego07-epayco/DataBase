@@ -6,7 +6,9 @@
             "name": "Diego Vargas",
             "descripcion": "Credito Vehiculo",
             "cuota": 1,
-            "total": 10
+            "total": 10,
+            "max":5,
+            "min":1
         },
         {
             "id": 2,
@@ -15,7 +17,9 @@
             "name": "Diego Vargas",
             "descripcion": "Credito Vivenda",
             "cuota": 1,
-            "total": 10
+            "total": 10,
+            "max":5,
+            "min":1
         },
         {
             "id": 3,
@@ -24,7 +28,9 @@
             "name": "Andres Osorio",
             "descripcion": "Credito Vivenda",
             "cuota": 2,
-            "total": 10
+            "total": 10,
+            "max":5,
+            "min":1
         },
         {
             "id": 4,
@@ -33,7 +39,9 @@
             "name": "Andres Tangarife",
             "descripcion": "Credito Linea Blanca",
             "cuota": 3,
-            "total": 10
+            "total": 10,
+            "max":5,
+            "min":1
         },
         {
             "id": 5,
@@ -42,7 +50,9 @@
             "name": "Maria Correa",
             "descripcion": "Credito Linea Blanca",
             "cuota": 1,
-            "total": 10
+            "total": 10,
+            "max":5,
+            "min":1
         }
     ]
 }
