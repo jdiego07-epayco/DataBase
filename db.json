@@ -1,17 +1,17 @@
 {
     "facturas": [{
-            "id": 1001,
+            "id": 202009151001,
             "tipo": "CC",
             "cc": "1194418306",
             "name": "Diego Vargas",
             "descripcion": "Credito Vehiculo",
-            "cuota": 1.5,
+            "cuota": 2,
             "total": 10,
             "max":5,
             "min":1
         },
         {
-            "id": 1002,
+            "id": 202009151002,
             "tipo": "CC",
             "cc": "1194418306",
             "name": "Diego Vargas",
@@ -44,12 +44,12 @@
             "min":1
         },
         {
-            "id": 1005,
+            "id": 202009151005,
             "tipo": "CC",
             "cc": "1194418306",
             "name": "Maria Correa",
             "descripcion": "Credito Linea Blanca",
-            "cuota": 1.5,
+            "cuota": 1,
             "total": 10,
             "max":5,
             "min":1
