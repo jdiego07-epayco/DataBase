@@ -5,8 +5,8 @@
             "cc": "1194418306",
             "name": "Diego Vargas",
             "descripcion": "Credito Vehiculo",
-            "cuota": 798000,
-            "iva": 133000,
+            "cuota": 2,
+            "iva": 0.3,
             "total": "$ 10.00 COP",
             "max":5,
             "min":1
@@ -17,8 +17,8 @@
             "cc": "1194418306",
             "name": "Diego Vargas",
             "descripcion": "Credito Vehiculo",
-            "cuota": 912272,
-            "iva": 152000,
+            "cuota": 1,
+            "iva": 0.1,
             "total": "$ 10.00 COP",
             "max":5,
             "min":1
@@ -29,8 +29,8 @@
             "cc": "1194418306",
             "name": "Diego Vargas",
             "descripcion": "Credito Vehiculo",
-            "cuota": 912272,
-            "iva": 152000,
+            "cuota": 3,
+            "iva": 0.3,
             "total": "$ 10.00 COP",
             "max":5,
             "min":1
@@ -41,8 +41,8 @@
             "cc": "1194418306",
             "name": "Diego Vargas",
             "descripcion": "Credito Vehiculo",
-            "cuota": 798000,
-            "iva": 133000,
+            "cuota": 1,
+            "iva": 0.3,
             "total": "$ 10.00 COP",
             "max":5,
             "min":1
