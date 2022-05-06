@@ -5,11 +5,11 @@
             "cc": "1194418306",
             "name": "Diego Vargas",
             "descripcion": "Credito Vestuario",
-            "cuota": 1.19,
-            "iva": 0.19,
-            "total": "$ 10.00 COP",
-            "max":5,
-            "min":1
+            "cuota": 10000,
+            "iva": 1900,
+            "total": "$ 100.000,00 COP",
+            "max":500000,
+            "min":5000
         },
         {
             "id": "0002",
@@ -17,11 +17,11 @@
             "cc": "1194418306",
             "name": "Diego Vargas",
             "descripcion": "Credito Libre Inversion",
-            "cuota": 2.38,
-            "iva": 0.38,
-            "total": "$ 10.00 COP",
-            "max":5,
-            "min":1
+            "cuota": 10000,
+            "iva": 1900,
+            "total": "$ 100.000,00 COP",
+            "max":500000,
+            "min":5000
         },
         {
             "id": "0003",
@@ -29,11 +29,11 @@
             "cc": "1194418306",
             "name": "Diego Vargas",
             "descripcion": "Credito Vivienda",
-            "cuota": 1.19,
-            "iva": 0.19,
-            "total": "$ 10.00 COP",
-            "max":5,
-            "min":1
+            "cuota": 10000,
+            "iva": 1900,
+            "total": "$ 100.000,00 COP",
+            "max":500000,
+            "min":5000
         },
         {
             "id": "0004",
@@ -41,11 +41,11 @@
             "cc": "648095",
             "name": "Hilda Pino",
             "descripcion": "Credito Vehiculo",
-            "cuota": 1.19,
-            "iva": 0.19,
-            "total": "$ 10.00 COP",
-            "max":5,
-            "min":1
+            "cuota": 10000,
+            "iva": 1900,
+            "total": "$ 100.000,00 COP",
+            "max":500000,
+            "min":5000
         },
         {
             "id": "0005",
@@ -53,11 +53,11 @@
             "cc": "648095",
             "name": "Hilda Pino",
             "descripcion": "Credito Linea Blanca",
-            "cuota": 2.38,
-            "iva": 0.38,
-            "total": "$ 10.00 COP",
-            "max":5,
-            "min":1
+            "cuota": 10000,
+            "iva": 1900,
+            "total": "$ 100.000,00 COP",
+            "max":500000,
+            "min":5000
         }
     ]
 }
