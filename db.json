@@ -8,7 +8,7 @@
         "tipo_contrato_de_cobro": "POSTPAGO",
         "direccion": "",
         "cuotas_vencidad": 1,
-        "deuda": 110000.0
+        "deuda": 110000
     },
     {
         "contrato_id": 9458,
@@ -19,6 +19,6 @@
         "tipo_contrato_de_cobro": "POSTPAGO",
         "direccion": "FLOR AMARILLO",
         "cuotas_vencidad": 1,
-        "deuda": 75000.0
+        "deuda": 75000
     }
 ]
