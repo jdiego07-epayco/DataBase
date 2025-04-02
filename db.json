@@ -8,7 +8,7 @@
                 "estado": "ACTIVO",
                 "tipo_contrato_de_cobro": "POSTPAGO",
                 "direccion": "",
-                "cuotas_vencidad": 1,
+                "saldoCredito": 10,
                 "deuda": 1.0
             },
             {
@@ -19,7 +19,7 @@
                 "estado": "ACTIVO",
                 "tipo_contrato_de_cobro": "POSTPAGO",
                 "direccion": "FLOR AMARILLO",
-                "cuotas_vencidad": 1,
+                "saldoCredito": 150000,
                 "deuda": 5000.00
             },
             {
@@ -30,7 +30,7 @@
                 "estado": "ACTIVO",
                 "tipo_contrato_de_cobro": "POSTPAGO",
                 "direccion": "FLOR AMARILLO",
-                "cuotas_vencidad": 1,
+                "saldoCredito": 50000,
                 "deuda": 15000.00
             },
             {
@@ -41,7 +41,7 @@
                 "estado": "ACTIVO",
                 "tipo_contrato_de_cobro": "POSTPAGO",
                 "direccion": "FLOR AMARILLO",
-                "cuotas_vencidad": 1,
+                "saldoCredito": 75000,
                 "deuda": 25000.00
             },
             {
@@ -52,7 +52,7 @@
                 "estado": "ACTIVO",
                 "tipo_contrato_de_cobro": "POSTPAGO",
                 "direccion": "FLOR AMARILLO",
-                "cuotas_vencidad": 1,
+                "saldoCredito": 150250,
                 "deuda": 50000.00
             }
         ]
